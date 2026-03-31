@@ -4,5 +4,7 @@ let total = compra - desconto ;
 
 
 if (compra >= 100) {
-    alert(`voce ganhou 10% de desconto. Sua compra ficou ${total}`)
+    alert(`voce ganhou 10% de desconto :D . Sua compra ficou ${total}`)
+} else {
+    alert("VocÊ não ganhou desconto :(")
 }
